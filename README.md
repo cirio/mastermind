@@ -1,3 +1,5 @@
+[![Build status](https://cirio.visualstudio.com/CirioProjects/_apis/build/status/Mastermind-Build)](https://cirio.visualstudio.com/CirioProjects/_build/latest?definitionId=-1)
+
 # Mastermind
 
 
